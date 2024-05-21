@@ -1,5 +1,5 @@
 // 依赖信息
-def groupIdDefined = "com.licheedev"
+def groupIdDefined = "hugin.droid"
 def artifactIdDefined = "android-serialport"
 // 如果是测试版，版本号后面加上 -SNAPSHOT
 def versionDefined = rootProject.ext.versionName
