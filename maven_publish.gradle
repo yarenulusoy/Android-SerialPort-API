@@ -1,10 +1,10 @@
 // 依赖信息
-def groupIdDefined = "com.droid"
-def artifactIdDefined = "android-serialport"
+def groupIdDefined = "hugin.droid"
+def artifactIdDefined = "sandroid-serialport"
 // 如果是测试版，版本号后面加上 -SNAPSHOT
 def versionDefined = rootProject.ext.versionName
 // 其他信息
-def gitUrl = "https://github.com/yarenulusoy/Android-SerialPort-API"
+def gitUrl = "https://github.com/licheedev/Android-SerialPort-API"
 
 // 配置是否上传
 def toUpload = true
